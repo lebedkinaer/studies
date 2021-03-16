@@ -1,3 +1,5 @@
+package ru.qa.sandbox;
+
 public class MyFirstProg {
 
 	public static void main(String[] args) {
