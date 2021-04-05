@@ -1,0 +1,2 @@
+ru/qa/sandbox/PointTests.java
+ ru.qa.sandbox.PointTests

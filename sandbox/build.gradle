@@ -1,11 +1,13 @@
 apply plugin: 'java'
 apply plugin: 'application'
-mainClassName = "MyFirstProg"
+mainClassName = "ru.qa.sandbox.MyFirstProg"
 
 repositories {
     mavenCentral()
 }
 
 dependencies {
-    implementation 'org.testng:testng:7.4.0'
+    compile 'org.testng:testng:6.9.10'
 }
+
+
